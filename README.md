@@ -35,5 +35,7 @@ ggslopegraph(
 
 ## Credits
 
-The slopegraph function is adapted from
-[`CGPfunctions`](https://github.com/ibecav/CGPfunctions) by Chuck Powell.
+This package traces back to Thomas J. Leeper's
+[`slopegraph`](https://github.com/leeper/slopegraph) package. The current
+function is adapted from Chuck Powell's
+[`CGPfunctions::newggslopegraph()`](https://github.com/ibecav/CGPfunctions).

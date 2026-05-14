@@ -176,8 +176,11 @@ ggslopegraph(
 )
 }
 \references{
+Leeper, Thomas J. slopegraph: Edward Tufte-Inspired Slopegraphs.
+\url{https://github.com/leeper/slopegraph}
+
 Based on: Edward Tufte, Beautiful Evidence (2006), pages 174-176.
 }
 \author{
-Chuck Powell
+Thomas J. Leeper and Chuck Powell
 }

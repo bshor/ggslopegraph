@@ -104,8 +104,12 @@
 #' @importFrom methods hasArg is
 #' @importFrom rlang .data enquo !!
 #'
-#' @author Chuck Powell
-#' @references Based on: Edward Tufte, Beautiful Evidence (2006), pages 174-176.
+#' @author Thomas J. Leeper and Chuck Powell
+#' @references
+#' Leeper, Thomas J. slopegraph: Edward Tufte-Inspired Slopegraphs.
+#' \url{https://github.com/leeper/slopegraph}
+#'
+#' Based on: Edward Tufte, Beautiful Evidence (2006), pages 174-176.
 #' @examples
 #' example <- data.frame(
 #'   year = ordered(rep(c("2020", "2024"), 3), levels = c("2020", "2024")),
