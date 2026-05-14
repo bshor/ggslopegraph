@@ -7,8 +7,8 @@ Tufte-style slopegraphs with `ggplot2`.
 ## Installation
 
 ```r
-install.packages("devtools")
-devtools::install_github("bshor/ggslopegraph")
+install.packages("pak")
+pak::pak("bshor/ggslopegraph")
 ```
 
 ## Example
