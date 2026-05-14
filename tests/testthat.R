@@ -1,4 +1,4 @@
 library(testthat)
-library(CGPfunctions)
+library(ggslopegraph)
 
-test_check("CGPfunctions")
+test_check("ggslopegraph")
